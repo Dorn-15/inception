@@ -11,6 +11,7 @@ RUN apk update && apk upgrade && \
     php82-mbstring \
     php82-openssl \
     php82-xml \
+    php82-phar \
     mariadb-client \
     wget
 
